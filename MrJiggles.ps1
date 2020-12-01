@@ -1,29 +1,31 @@
 Clear-Host
 echo "Mr Jiggles"
+echo "#####################")
+echo "Mr Jiggles")
+echo "#####################")
+echo "+------------+")
+echo "|             |")
+echo "| +---+       |")
+echo "| |   |  +--+ |")
+echo "| |   |  |  | |")
+echo "| +---+  +--+ |")
+echo "|             |")
+echo "| X         X |")
+echo "| X        XX |")
+echo "| XX       X  |")
+echo "|  XXXxXXXXX  |")
+echo "|             |")
+echo "|             |")
+echo "+-----[]------+")
+echo "      []")
+echo "      [][]")
+echo "        []")
+echo "        []")
+echo "      +----+")
+echo "      |    |")
+echo "      |[][]|")
+echo "      +----+")
 
-echo "+------------+"
-echo "|            |"
-echo "| +---+      |"
-echo "| |   | +--+ |"
-echo "| |   | |  | |"
-echo "| +---+ +--+ |"
-echo "|            |"
-echo "| X        X |"
-echo "| X       XX |"
-echo "| XX      X  |"
-echo "|  XXXXXXXX  |"
-echo "|            |"
-echo "|            |"
-echo "+-----X------+"
-echo "      X"
-echo "      X"
-echo "     XX"
-echo "     X"
-echo "   +---+"
-echo "   |   |"
-echo "   |   |"
-echo "   +---+"
-echo "Jiggley Wiggley..."
 
 Add-Type -AssemblyName System.Windows.Forms
 $PlusOrMinus = 1
